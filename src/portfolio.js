@@ -197,28 +197,28 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "All of the projects my friends are making and i am making ",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("https://cdn.discordapp.com/icons/1420221083440648285/e53891e8d3b4a893c1a15dee9c0e9a06.webp"),
+      projectName: "Neon Community",
+      projectDesc: "Made By developer3527",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Discord",
+          url: "https://discord.gg/jy6bMSNT43"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mcbetools.com&size=40"),
+      projectName: "MCBETools",
+      projectDesc: "Made by TrashyDaFox",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "http://mcbetools.com/"
         }
       ]
     }
